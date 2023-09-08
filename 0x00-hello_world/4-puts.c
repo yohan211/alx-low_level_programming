@@ -1,4 +1,4 @@
-#!/bin/bash
+
 #include <studio.h>
 /**
  * main - A program that print a line with puts fanction
