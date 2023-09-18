@@ -1,2 +1,2 @@
-	
-C language prigramming The project "0x03. C - Debugging"
+PROJECT 0x02. C - Functions, nested loops
+
